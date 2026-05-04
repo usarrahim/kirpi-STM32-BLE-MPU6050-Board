@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Kirpi_complist")(type "KiCad")(uri "${KIPRJMOD}/CompLib/symbols/project-name_complist.kicad_sym")(options "")(descr ""))
+)
