@@ -1,0 +1,19 @@
+# KiCad Yedek ve Gecici Dosyalar
+*-backups/
+_autosave*
+~*
+*.lck
+*.bak
+*.bck
+*.tmp
+#auto_saved_files#
+
+# Onbellek Dosyalari
+fp-info-cache/
+
+# Zip ve PDF ciktilari
+*.zip
+*.pdf
+
+# Gecici/Gereksiz Sematikler
+untitled.kicad_sch
